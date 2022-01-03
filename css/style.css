@@ -1,0 +1,16 @@
+
+body {
+  background: #99A799;
+}
+h1 {
+color: black;
+}
+h3 {
+  color: #402218;
+}
+hr {
+  border-style: none;
+  border-top-style: groove;
+  border-top-color: black;
+  width: 100%;
+}
